@@ -9,40 +9,6 @@
   <li>Swap Mutation</li>
 </ul>
 <p>All of these five steps are inspired from different fields of computing and cryptography, yet they are completely unique as cryptographic method.</p>
-<p>Steps to Encryption:-</p>
-<ul>
-  <li>After clicking on the application icon, the following pop up appears.</li><br>
-  <img src= "www/static/images/Screenshot_0.png"><br><br>
-  <li>After you click OK you are asked for the key range.</li><br>
-  <img src= "www/static/images/Screenshot_1.png"><br><br>
-  <li>After entering the key range, when you click on generate the encryption key will 
-  be generated and the encrypted form of the generated will be shown on the top 
-  right hand corner of the screen.</li><br>
-  <img src= "www/static/images/Screenshot_2.png"><br><br>
-  <li>Then on the left you have an option for selecting a file. So now you can select a 
-  text file or write down your plain text message in the text box below the Select 
-  File button.</li><br>
-  <img src= "www/static/images/Screenshot_3.png"><br><br>
-  <li>Then you have to click on encrypt and the plain text message will be encrypted.</li><br>
-  <img src= "www/static/images/Screenshot_4.png"><br><br>
-  <li>Now you can save your encrypted key and the encrypted message in two separate text file by clicking on the save button. </li><br>
-  <img src= "www/static/images/Screenshot_5.png"><br><br>
-  <img src= "www/static/images/Screenshot_6.png"><br><br>
-</ul>
-<p>Steps to Decryption:-</p>
-<ul>
-  <li>On the top navigation bar if you click on the Decryption button, the decryption 
-  screen will appear and you will see the following notification.</li><br>
-  <img src= "www/static/images/Screenshot_7.png"><br><br>
-  <li>After you click on OK you can select either encrypted message or the encrypted text 
-  file. Its pairing other file will be automatically selected by the system, given both of 
-  them are in the same folder.</li><br>
-  <img src= "www/static/images/Screenshot_8.png"><br><br>
-  <img src= "www/static/images/Screenshot_9.png"><br><br>
-  <li>Now click on Decrypt and the message will be decrypted.</li><br>
-  <img src= "www/static/images/Screenshot_10.png"><br><br>
-  <li>You can also save the decrypted message by clicking on the Save button.</li><br>
-</ul>
 <p>Software Requirements:-</p>
 <ul>
   <li>Processor Speed-2.05 GHZ or Higher</li>
