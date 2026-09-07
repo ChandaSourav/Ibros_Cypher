@@ -1,4 +1,4 @@
-# <img src= "www/static/res/images/logo_circular.png" width = "30" height = "30"> IBROS Cypher 
+<img width="25" height="25" alt="logo_transparent" src="https://github.com/user-attachments/assets/f21046a7-1a48-4940-809f-df95a80375f2" /> IBROS Cypher 
 <p>Invented a new paradigm for implementing DNA cryptography system based on IBROS Cypher.IBROS Cypher mainly deals with manipulation in the binary form of the plain text message to encrypt and decrypt it.IBROS uses a completely randomized two key system, which makes it hard to break. Even after such complex methods, the applicability of each method is simple which makes it a fast DNA cryptography system. IBROS is an abbreviation for the five steps used in this cypher.</p>
 <p>They are :-</p>
 <ul>
